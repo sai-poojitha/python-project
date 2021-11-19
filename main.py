@@ -1,6 +1,6 @@
 s=input()
 if s==s[::1]:
-   prinit("PALINDROME")
+   prinit("PAL")
 else:
    print("NOT A PALINDROME")
      
